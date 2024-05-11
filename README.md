@@ -1,3 +1,8 @@
+TFDNet: Time-Frequency Enhanced Decomposed Network for Long-term Time Series Forecasting [【paper】](https://arxiv.org/pdf/2308.13386)
+
+
+
+
 ## Get Started
 
 1. Install Python 3.9, PyTorch 1.12.0.
